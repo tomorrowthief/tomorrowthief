@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-I am a developer focusing on web-based tec, LLM Agent
+I am a developer focusing on Web-Based tec, Agentic Apps.
+
